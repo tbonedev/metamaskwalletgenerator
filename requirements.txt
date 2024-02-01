@@ -1,0 +1,6 @@
+pip install python==3.10
+
+pin install sha3 
+pin install coincurve
+pin install  secrets 
+pin install mnemonic 
